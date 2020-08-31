@@ -1,0 +1,19 @@
+{
+  "name": "airdubui",
+  "version": "1.0.0",
+  "description": "A UI Library for AirdubChat custom elements powered by Lit-Element",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvinThorn008/AirDubUI.git"
+  },
+  "author": "Alvin Ogwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvinThorn008/AirDubUI/issues"
+  },
+  "homepage": "https://github.com/AlvinThorn008/AirDubUI#readme"
+}
